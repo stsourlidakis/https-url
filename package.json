@@ -1,0 +1,25 @@
+{
+  "name": "https-url",
+  "version": "1.0.0",
+  "description": "A node module that converts http urls to https",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stsourlidakis/https-url.git"
+  },
+  "keywords": [
+    "url",
+    "http",
+    "https",
+    "convert"
+  ],
+  "author": "Stavros Tsourlidakis <'s.tsourlidakis@hotmail.com'>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stsourlidakis/https-url/issues"
+  },
+  "homepage": "https://github.com/stsourlidakis/https-url#readme"
+}
